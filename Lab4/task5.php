@@ -16,7 +16,7 @@
 </head>
 <body>
     <header>
-        <h1>Image Gallery</h1>
+        <h1>Formula 1 Image Gallery</h1>
     </header>
     <nav>
         <a href="#">Home</a>
