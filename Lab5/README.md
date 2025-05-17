@@ -23,7 +23,10 @@
 Каждое задание доступно через главную страницу `index.php`, которая содержит навигационные ссылки.
 
 ## Скриншоты отображающие результаты
-
+<img width="534" alt="Screenshot 2025-05-17 at 18 50 27" src="https://github.com/user-attachments/assets/722e5508-fc16-47fa-9571-a723c039894c" />
+<img width="661" alt="Screenshot 2025-05-17 at 18 50 14" src="https://github.com/user-attachments/assets/71e38cad-fb46-49be-9161-ed5581798410" />
+<img width="751" alt="Screenshot 2025-05-17 at 19 29 11" src="https://github.com/user-attachments/assets/a0fc0a5e-b02c-4736-917a-a73278e94a7b" />
+<img width="682" alt="Screenshot 2025-05-17 at 19 29 50" src="https://github.com/user-attachments/assets/d53ea9c8-02f3-4a99-b3b6-2c090f4caef8" />
 
 ## Список использованных источников
 
