@@ -18,6 +18,7 @@
     <ul>
         <li><a href="task1.php">Task 1: Edit Form</a></li>
         <li><a href="task2.php">Task 2: Registration for F1</a></li>
+        <li><a href="task3.php">Task 3: Create and make some changes in form </a></li>
     </ul>
 </body>
 </html>
